@@ -3,7 +3,7 @@
 This portfolio showcase the collection of my technical writing samples, including articles, tutorials, and guides. It includes a variety of writing samples, from beginner-friendly tutorials to in-depth technical guides.
 
 ## About Me
-I am a software developer and technical writer with expertise in frontend, backend, and database development. My passion lies in creating innovative software solutions and breaking down complex technical concepts into easy-to-understand content.
+I am a software developer and technical writer with expertise in frontend and backend development. My passion lies in creating innovative software solutions and breaking down complex technical concepts into easy-to-understand content.
 
 Over the years, I have written numerous articles for various companies and publications, covering a wide range of topics in software development, IT, and emerging technologies. My writing focuses on making complex technical concepts approachable and useful to readers of all skill levels.
 
@@ -13,6 +13,7 @@ Beyond development and writing, I am an educator with an active tech community, 
 A collection of my technical writing work, demonstrating my ability to explain complex topics in clear and concise language.
 | **Topic**                                         |       **Document Type**       | **Description**                                                                                     |
 |---------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------|
+| [Blockchain Basics: How it Works and its Role in Technology]([YOUR_ARTICLE_LINK_HERE](https://medium.com/@chosendev2000/blockchain-basics-how-it-works-and-its-role-in-technology-684a8d3ee3ec)) | Article | This article provides a clear and concise overview of blockchain technology, explaining its fundamental principles and its growing impact across various industries. |
 |  [How to Add a Smooth Scroll in CSS](https://www.lambdatest.com/blog/smooth-scroll-in-css/)  |  Tutorial  |  This article demonstrates how to create a seamless scrolling experience on web pages using the CSS scroll-behavior property. It includes step-by-step instructions and practical examples, guiding readers through building web pages from scratch to showcase smooth scrolling effects  |
 |  [Unleash the Power of Performance Testing](https://blog.openreplay.com/performance-testing-tips/)  |  Guide  |  This guide explores the concept of performance testing, its importance, types, tools, and best practices. It also provides a hands-on guide to compatibility testing using LambdaTest's LT Browser.  |
 |  [Understanding CSS Sibling Selectors: A Beginner’s Guide](https://www.lambdatest.com/blog/css-sibling-selectors/)  |  Tutorial  |  This tutorial provides a beginner-friendly guide to CSS sibling selectors. It explains the different types of sibling selectors and demonstrates their usage through practical code examples and visual outputs.  |
