@@ -1,5 +1,4 @@
-# My Technical Writing Portfolio
-## Overview
+# Technical Writing Portfolio
 This portfolio showcase the collection of my technical writing samples, including articles, tutorials, and guides. It includes a variety of writing samples, from beginner-friendly tutorials to in-depth technical guides.
 
 ## About Me
